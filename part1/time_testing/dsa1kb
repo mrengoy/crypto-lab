@@ -1,0 +1,22 @@
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
+rm temp
+time gpg --output temp -u DSA_2048_sign_test --clearsign ../1kb_message
